@@ -1,0 +1,57 @@
+
+
+.mavi{
+    color:white;
+}
+
+.navbar{
+    background-color: brown;
+}
+
+.img-2{
+    display: flex;
+    
+}
+
+.img-1{
+
+}
+
+.img-1 img{
+    width: 600px;
+}
+
+.img-2 img{
+    width: 600px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.space{
+margin-top: 150px;
+}
+
+.direccion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us{
+    
+    text-align: justify;
+    align-items: center;
+}
+
+.footer{
+    background-color: brown;
+    width: 100%;
+}
+
+.wordswhite{
+    color: white;
+}
+
+
+
